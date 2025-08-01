@@ -14,13 +14,9 @@ One of the cooler applications I've built revolves around capturing still images
 
 Everything updates in real-time using SignalR and a lot of JavaScript to catch ALL edge cases... I hope. What I really enjoy about this app is that it creates a streamlined and guided workflow ensuring smooth orders for the individuals packaging, and the users approving.
 
-### Currently Improving
+### Currently Studying... 
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=angular,ts,sass" />
 </a>
-
-Lately I've been brushing up on Angular, TypeScript and SASS in preperation for a front-end role. Since I've spent most of my time on the backend, I'm using my experience with structuring, architecture and problem solving skills to help me improve my skills quicker. 
-
-I’m planning on creating a new app using a stack I’m excited about: Angular, TypeScript, SASS, .NET, and PostgreSQL. I'm excited to build fresh from scratch and put it all into practice.
 

@@ -14,7 +14,7 @@ One of the cooler applications I've built revolved around capturing still images
 
 After a year of designing, building and maintaining web applications, I transitioned into a front-end development role; a move that has helped me grow into a more well-rounded full-stack developer. 
 
-I'm currently maintaining and designing Angular applications that manage and support industrial machines across the globe. From the Americas, to Europe and Austrailia.     
+I'm currently maintaining and designing Angular applications that manage and support industrial machines across the globe. From the Americas, to Europe and Australia.     
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=angular,ts,sass" />
@@ -22,17 +22,17 @@ I'm currently maintaining and designing Angular applications that manage and sup
 
 ### 🧰 Preferred Tech Stack
 
-- **Frontend**: Angular, TypeScript, SCSS, HTML5
-- **Backend**: .NET Core, C#, Entity Framework Core
-- **Database**: SQL Server, PostgreSQL, MySQL
-- **Dev Tools**: Git, GitHub, Visual Studio, VS Code
+- **Frontend**: Angular, TypeScript, SCSS, HTML5.
+- **Backend**: .NET Core, C#, Entity Framework Core.
+- **Database**: SQL Server, PostgreSQL, MySQL.
+- **Dev Tools**: Git, GitHub, Visual Studio, VS Code.
 - **Other**: REST APIs, RTSP camera integration, HMI systems, real-time notifications, authentication systems.
 
 
 ### 📚 Currently Improving
 
-- RxJS and advanced Angular patterns
-- Unit testing with Jasmine & Karma
+- RxJS and advanced Angular patterns.
+- Unit testing with Jasmine & Karma.
   
 
 
